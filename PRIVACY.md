@@ -43,7 +43,7 @@ As part of this integration:
 * Z.ai may use submitted data to improve and develop its services and AI models, as described in their Privacy Policy.
 
 For more information, please review the Z.ai Privacy Policy:
-https://chat.z.ai/privacy-policy
+https://chat.z.ai/legal-agreement/privacy-policy
 
 ## Data Storage
 
